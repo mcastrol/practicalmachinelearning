@@ -11,7 +11,7 @@ knitr::opts_chunk$set(cache=TRUE)
 ```
 
 ## Executive Summary
-This is the course project of the Practical Machine Learning Curse. The report develops how the goals of this projects are acomplished:
+This is the final project of the Practical Machine Learning course. The report develops how the goals of this projects are acomplished:
 1) The data is cleaned to avoid using NA variables.
 2) The 19622 experiments for training are divided by 70/30 for create the model and for test the results and for measure the accuracy.
 3) A first model using classification tree is created, but the accuracy is not enought.
